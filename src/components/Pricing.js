@@ -38,7 +38,7 @@ function Pricing() {
                             </li>
                         </ul>
                         <div className="button-wrapper">
-                            <a className="btn-solid-reg page-scroll" href="sign-up.html">SIGN UP</a>
+                            <a className="btn-solid-reg page-scroll" href="/signup">SIGN UP</a>
                         </div>
                     </div>
                 </div> 
@@ -48,7 +48,7 @@ function Pricing() {
                 <div className="card">
                     <div className="card-body">
                         <div className="card-title">ADVANCED</div>
-                        <div className="price"><span className="currency">$</span><span className="value">29.99</span></div>
+                        <div className="price"><span className="currency">$</span><span className="value">32.59</span></div>
                         <div className="frequency">monthly</div>
                         <div className="divider"></div>
                         <ul className="list-unstyled li-space-lg">
@@ -69,7 +69,7 @@ function Pricing() {
                             </li>
                         </ul>
                         <div className="button-wrapper">
-                            <a className="btn-solid-reg page-scroll" href="sign-up.html">SIGN UP</a>
+                            <a className="btn-solid-reg page-scroll" href="/signup">SIGN UP</a>
                         </div>
                     </div>
                 </div> 
@@ -81,7 +81,7 @@ function Pricing() {
                     </div> --> */}
                     <div className="card-body">
                         <div className="card-title">COMPLETE</div>
-                        <div className="price"><span className="currency">$</span><span className="value">39.99</span></div>
+                        <div className="price"><span className="currency">$</span><span className="value">49.87</span></div>
                         <div className="frequency">monthly</div>
                         <div className="divider"></div>
                         <ul className="list-unstyled li-space-lg">
@@ -102,7 +102,7 @@ function Pricing() {
                             </li>
                         </ul>
                         <div className="button-wrapper">
-                            <a className="btn-solid-reg page-scroll" href="sign-up.html">SIGN UP</a>
+                            <a className="btn-solid-reg page-scroll" href="/signup">SIGN UP</a>
                         </div>
                     </div>
                 </div> 

@@ -23,7 +23,7 @@ function Description() {
                     </div>
                     <div className="card-body">
                         <h4 className="card-title">Lists Builder</h4>
-                        <p>It's very easy to start creating email lists for your marketing actions. Just create your Tivo account</p>
+                        <p>It's very easy to start creating email lists for your marketing actions. Just create your Level account</p>
                     </div>
                 </div>
                 
@@ -35,7 +35,7 @@ function Description() {
                     </div>
                     <div className="card-body">
                         <h4 className="card-title">Campaign Tracker</h4>
-                        <p>Campaigns is a feature we've developed since the beginning because it's at the core of Tivo's functionalities</p>
+                        <p>Campaigns is a feature we've developed since the beginning because it's at the core of Level functionalities</p>
                     </div>
                 </div>
                 
@@ -47,7 +47,7 @@ function Description() {
                     </div>
                     <div className="card-body">
                         <h4 className="card-title">Analytics Tool</h4>
-                        <p>Tivo collects customer data in order to help you analyse different situations and take required action</p>
+                        <p>Level collects customer data in order to help you analyse different situations and take required action</p>
                     </div>
                 </div>
                

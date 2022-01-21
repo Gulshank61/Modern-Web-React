@@ -11,7 +11,7 @@ function Features() {
                     <div className="col-lg-12">
                         <div className="above-heading">FEATURES</div>
                         <h2 className="h2-heading">Marketing Automation</h2>
-                        <p className="p-heading">Take your business strategy to the next level and automatize your marketing tasks to save time for product development. Tivo can provide results in less than 2 weeks</p>
+                        <p className="p-heading">Take your business strategy to the next level and automatize your marketing tasks to save time for product development. Level can provide results in less than 2 weeks</p>
                     </div>
                 </div>
                 <div className="row">
@@ -45,7 +45,7 @@ function Features() {
                                     <div className="col-lg-6">
                                         <div className="text-container">
                                             <h3>List Building Is Easier Than Ever</h3>
-                                            <p>It's very easy to start using Tivo. You just need to fill out and submit the <a className="blue page-scroll" href="sign-up.html">Sign Up Form</a> and you will receive access to the app and all of its features in no more than 24h.</p>
+                                            <p>It's very easy to start using Level. You just need to fill out and submit the <a className="blue page-scroll" href="sign-up.html">Sign Up Form</a> and you will receive access to the app and all of its features in no more than 24h.</p>
                                             <ul className="list-unstyled li-space-lg">
                                                 <li className="media">
                                                     <i className="fas fa-square"></i>
@@ -81,7 +81,7 @@ function Features() {
                                     <div className="col-lg-6">
                                         <div className="text-container">
                                             <h3>Campaigns Monitoring Tools</h3>
-                                            <p>Campaigns monitoring is a feature we've developed since the beginning because it's at the core of Tivo and basically to any marketing activity focused on results.</p>
+                                            <p>Campaigns monitoring is a feature we've developed since the beginning because it's at the core of Level and basically to any marketing activity focused on results.</p>
                                             <ul className="list-unstyled li-space-lg">
                                                 <li className="media">
                                                     <i className="fas fa-square"></i>

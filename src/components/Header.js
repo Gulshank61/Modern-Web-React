@@ -9,9 +9,9 @@ function Header() {
             <div className="row">
                 <div className="col-lg-6 col-xl-5">
                     <div className="text-container">
-                        <h1>SaaS App HTML Landing Page</h1>
-                        <p className="p-large">Use Tivo to automate your marketing actions in order to reach a much larger audience</p>
-                        <a className="btn-solid-lg page-scroll" href="sign-up.html">SIGN UP</a>
+                        <h1>React App HTML Landing Page</h1>
+                        <p className="p-large">Use Level to automate your marketing actions in order to reach a much larger audience</p>
+                        <a className="btn-solid-lg page-scroll" href="/signup">SIGN UP</a>
                     </div> 
                 </div> 
                 <div className="col-lg-6 col-xl-7">

@@ -18,7 +18,7 @@ function Newsletter() {
                                     <div className="help-block with-errors"></div>
                                 </div>
                                 <div className="form-group checkbox">
-                                    <input type="checkbox" id="nterms" value="Agreed-to-Terms" required />I've read and agree to Tivo's written <a href="privacy-policy.html">Privacy Policy</a> and <a href="terms-conditions.html">Terms Conditions</a>
+                                    <input type="checkbox" id="nterms" value="Agreed-to-Terms" required />I've read and agree to Level's written <a href="privacy-policy.html">Privacy Policy</a> and <a href="terms-conditions.html">Terms Conditions</a>
                                     <div className="help-block with-errors"></div>
                                 </div>
                                 <div className="form-group">

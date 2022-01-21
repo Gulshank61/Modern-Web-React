@@ -37,7 +37,7 @@ function Footer() {
                         </li>
                         <li className="media">
                             <i className="fas fa-envelope"></i>
-                            <div className="media-body"><a className="white" href="mailto:contact@tivo.com">contact@level.com</a> <i className="fas fa-globe"></i><a className="white" href="#your-link">www.level.com</a></div>
+                            <div className="media-body"><a className="white" href="mailto:contact@level.com">contact@level.com</a> <i className="fas fa-globe"></i><a className="white" href="#your-link">www.level.com</a></div>
                         </li>
                     </ul>
                 </div> 

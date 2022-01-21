@@ -21,7 +21,7 @@ function Video() {
                 </div> 
                 
 
-                <div className="p-heading">What better way to show off Tivo marketing automation saas app than presenting you some great situations of each module and tool available to users in a video</div>        
+                <div className="p-heading">What better way to show off Level marketing automation saas app than presenting you some great situations of each module and tool available to users in a video</div>        
             </div>
         </div>
     </div>
